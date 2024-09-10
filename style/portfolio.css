@@ -19,4 +19,13 @@ h2{
 .hero{
     background-color: #f9f7fe;
     text-align: center;
+    padding: 160px 20px;
+}
+.btn-branding{
+    background-color: #6c63ff;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 12px 20px;
 }
