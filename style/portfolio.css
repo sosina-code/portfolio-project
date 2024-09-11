@@ -75,7 +75,8 @@ h2{
     font-weight: normal;
 }
 .about-section{
-    padding: 160px 20px;
+    padding: 0px;
+    text-align: center;
 }
 .about-section-content{
     margin: 30px;
