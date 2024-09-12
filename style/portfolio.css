@@ -86,3 +86,18 @@ h2{
     font-size: 24px;
     font-weight: bold;
 }
+.logo{
+    max-width: 150px;
+}
+nav li{
+    display: inline;
+    list-style: none;
+    line-height: 42px;
+}
+nav ul{
+    padding: 0;
+    margin: 0;
+}
+nav{
+padding:20px 0;
+}
