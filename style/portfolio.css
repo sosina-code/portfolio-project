@@ -81,3 +81,8 @@ h2{
 .about-section-content{
     margin: 30px;
 }
+.section{
+    font-family: var(--default-font-family);
+    font-size: 24px;
+    font-weight: bold;
+}
