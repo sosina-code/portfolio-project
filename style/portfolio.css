@@ -112,7 +112,7 @@ nav a:hover{
 nav li.active a{
     color: var(--branding-color);
 }
-footer.Email-links{
+footer.email-links{
     color:black;
     font-size: 24px;
 }
