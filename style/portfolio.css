@@ -138,5 +138,10 @@ footer .social-links a:hover{
     background-color: var(--branding-color);
 
 }
+footer .contact-box{
+    background-color: var(--secondary-color);
+    padding: 30px;
+    border-radius: 10px;
+}
 
 
