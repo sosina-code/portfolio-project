@@ -116,6 +116,6 @@ footer.Email-links{
     color:black;
     font-size: 24px;
 }
-footer.Email-links:hover{
+footer.Email-links a:hover{
     color: var(--branding-color);
 }
